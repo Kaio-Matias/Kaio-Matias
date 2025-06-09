@@ -66,6 +66,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kaio-Matias/Kaio-Matias/output/snake.svg" alt="Snake animation" />
 
 ###
