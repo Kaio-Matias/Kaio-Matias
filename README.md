@@ -1,7 +1,5 @@
 <h1 align="left">Olá! Me chamo Kaio Matias</h1>
 
-###
-
 <br clear="both">
 
 <div align="center">
